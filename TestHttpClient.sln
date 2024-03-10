@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHttpClient", "TestHttpClient\TestHttpClient.csproj", "{3EE8BB52-79F1-429E-925D-3CB03213081C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJs", "TestJs\TestJs.csproj", "{F1BB0DA6-F9C5-4F67-B53A-25C29AB4DAB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE8BB52-79F1-429E-925D-3CB03213081C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE8BB52-79F1-429E-925D-3CB03213081C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE8BB52-79F1-429E-925D-3CB03213081C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE8BB52-79F1-429E-925D-3CB03213081C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1BB0DA6-F9C5-4F67-B53A-25C29AB4DAB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BB0DA6-F9C5-4F67-B53A-25C29AB4DAB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BB0DA6-F9C5-4F67-B53A-25C29AB4DAB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BB0DA6-F9C5-4F67-B53A-25C29AB4DAB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
