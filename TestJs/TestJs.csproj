@@ -16,6 +16,7 @@
 
     <ItemGroup>
       <PackageReference Include="Microsoft.ClearScript" Version="7.4.4" />
+      <PackageReference Include="Microsoft.ClearScript.linux-x64" Version="7.4.4" />
       <PackageReference Include="Microsoft.ClearScript.osx-arm64" Version="7.4.4" />
       <PackageReference Include="Microsoft.ClearScript.V8" Version="7.4.4" />
     </ItemGroup>
